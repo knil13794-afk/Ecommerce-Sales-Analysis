@@ -4,10 +4,10 @@
 Analyze sales data to identify trends, top-performing products, customer behavior, and profitability using SQL, Python, Excel, and Power BI.
 
 ### Tools Used
-SQL
-Python (Pandas, Matplotlib)
-Excel
-Power BI
+* SQL
+* Python (Pandas, Matplotlib)
+* Excel
+* Power BI
 
 ### Dataset
 Customers
