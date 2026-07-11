@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Price
+P001,Table 1,Furniture,Tables,9101
+P002,Printer 2,Technology,Accessories,11156
+P003,Table 3,Furniture,Tables,8626
+P004,Mobile 4,Technology,Phones,25159
+P005,Laptop 5,Technology,Computers,55950
+P006,Chair 6,Furniture,Chairs,6747
+P007,Chair 7,Furniture,Chairs,7155
+P008,Table 8,Furniture,Tables,9394
+P009,Laptop 9,Technology,Computers,54937
+P010,Chair 10,Furniture,Chairs,6220
+P011,Laptop 11,Technology,Computers,55695
+P012,Chair 12,Furniture,Chairs,6025
+P013,Table 13,Furniture,Tables,8873
+P014,Laptop 14,Technology,Computers,54187
+P015,Printer 15,Technology,Accessories,11235
+P016,Laptop 16,Technology,Computers,54384
+P017,Mobile 17,Technology,Phones,25608
+P018,Table 18,Furniture,Tables,8362
+P019,Mobile 19,Technology,Phones,24236
+P020,Printer 20,Technology,Accessories,11342
