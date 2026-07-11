@@ -10,26 +10,26 @@ Analyze sales data to identify trends, top-performing products, customer behavio
 * Power BI
 
 ### Dataset
-Customers
-Orders
-Products
-Returns
+* Customers
+* Orders
+* Products
+* Returns
 
 ### Key Analyses
-Sales Analysis
-Profit Analysis
-Customer Analysis
-Product Analysis
-State-wise Analysis
-Monthly Trends
+* Sales Analysis
+* Profit Analysis
+* Customer Analysis
+* Product Analysis
+* State-wise Analysis
+* Monthly Trends
 
 ###  Dashboard Features
-KPI Cards
-Interactive Slicers
-Top 10 Products
-Top 10 Customers
-Monthly Sales Trend
-Category-wise Sales
-State-wise Sales
+* KPI Cards
+* Interactive Slicers
+* Top 10 Products
+* Top 10 Customers
+* Monthly Sales Trend
+* Category-wise Sales
+* State-wise Sales
 
 
